@@ -1,6 +1,6 @@
 # Privacy Policy
 
-We, Djebliapps, developed this product or service (Game) as an Ad Supported app and published in Google Play Store and Apple App Store. This Game is provided by Us (Djebliapps) at no cost and is intended for use as is.
+We, **Djebliapps**, developed this product or service (Game) as an Ad Supported app and published in Google Play Store and Apple App Store. This Game is provided by Us (Djebliapps) at no cost and is intended for use as is.
 
 This page is used to inform users (you) regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
